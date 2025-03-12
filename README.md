@@ -1,4 +1,4 @@
-# Hi there! I'm Mahdi Mohsseni 👋
+# Hi there! I'm Mahdi Mohsseni 👋 
 
 ## 🚀 About Me
 I am a **Data Scientist** with a strong background in **Physics (PhD)**, currently transitioning into the field of **Artificial Intelligence and Machine Learning**. My expertise lies in leveraging mathematical and statistical models to extract meaningful insights from complex datasets. I am passionate about problem-solving, predictive modeling, and working with real-world data to drive impactful decisions.
